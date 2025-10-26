@@ -95,7 +95,7 @@ To obtain your personal Audible listening data:
 ## 🚀 Future Plans
 
 - Integrate Kindle and Libby data (if exportable)
-- Build a small dashboard (Streamlit or Flask)
+- Continue work on a small dashboard (Replit)
 - Visualize combined reading/listening patterns
 - Add sentiment or genre analysis
 
